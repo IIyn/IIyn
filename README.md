@@ -8,8 +8,8 @@
 ## Skills
 
 ## Web
-![HTML](732212.png) ![CSS](CSS2.png) ![JS](JS.png) ![PHP](PHP-logo.svg) 
+<img src="732212.png" alt="HTML" width="200"/>
 
 ### Software and machine
 
-![C++](1822px-ISO_C++_Logo.svg.png) ![Java](java.png) 
+
