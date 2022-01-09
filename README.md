@@ -3,7 +3,7 @@
 
 - 📍 [CYU](https://www.cyu.fr)
 - 🌱 I'm currently working on a [student app project](https://github.com/Klbgr/EzStudies)
-- 🎼 I also play piano and do musical stuff
+- 🎼 I also play piano and do music stuff
 
 ## Skills
 
