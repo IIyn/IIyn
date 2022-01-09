@@ -15,3 +15,5 @@
 
 ### Other
 <img src="489px-MySQL.svg.png" alt="MySQL" width="100"/> <img src="postgresql-logo-3-300x291.png" alt="Postgres" width="100"/> <img src="154px-Tux-simple.svg.png" alt="Linux" width="100"/>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
