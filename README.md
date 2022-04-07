@@ -1,5 +1,5 @@
 ### Ilyn / Yassin
-### Studen in computer science / France
+### Student in computer science / France
 
 - 📍 [CYU](https://www.cyu.fr)
 - 🌱 I'm currently working on a [student app project](https://github.com/Klbgr/EzStudies)
