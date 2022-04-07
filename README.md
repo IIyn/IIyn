@@ -2,7 +2,6 @@
 ### Student in computer science / France
 
 - 📍 [CYU](https://www.cyu.fr)
-- 🌱 I'm currently working on a [student app project](https://github.com/Klbgr/EzStudies)
 - 🎼 I also play piano and do music stuff
 
 ## Skills
