@@ -2,6 +2,7 @@
 ### Student in computer science / France
 
 - 📍 [CYU](https://www.cyu.fr)
+- I am currently working on web app with my classmates
 - 🎼 I also play piano and do music stuff
 
 ## Skills
