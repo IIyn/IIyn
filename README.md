@@ -2,7 +2,7 @@
 ### Student in computer science / France
 
 - 📍  [CYU](https://www.cyu.fr)
-- 🌱 I am currently working on web app with my classmates
+- 🌱 I am currently working on a todo-list app in React
 - 🎼 I also play piano and do music stuff
 
 ## Skills
