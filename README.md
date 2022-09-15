@@ -1,7 +1,7 @@
 ### Ilyn / Yassin
 ### Student in computer science / France
 
-- 📍  [CYU](https://www.cyu.fr)
+- 📍  [3WA](https://3wa.fr/)
 - 🌱 I am currently working on a todo-list app in React
 - 🎼 I also play piano and do music stuff
 
