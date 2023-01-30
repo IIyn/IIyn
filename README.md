@@ -9,6 +9,7 @@
 
 ### Frontend
 <img src="React + Typescript.png" alt="ReactTS" width="100"/>
+
 ### Backend
 <img src="nodejssvg.png" alt="NodeJS" width="100"/> <img src="PHP-logo.svg.png" alt="PHP" width="100"/> <img src="python-icon.png" alt="Python" width="100"/> <img src="java.png" alt="Java" width="100"/>
 
