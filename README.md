@@ -18,4 +18,4 @@
 
 ## Misc
 
-<img src="https://github-readme-stats.vercel.app/api?username=IIyn&show_icons=true&theme=radical" alt="Stats" width="500"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IIyn&layout=compact" alt="Top Langs" width="550"/>
+<img src="https://github-readme-stats.vercel.app/api?username=IIyn&show_icons=true&theme=radical" alt="Stats" width="450"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IIyn&layout=compact" alt="Top Langs" width="550"/>
