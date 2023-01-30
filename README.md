@@ -8,10 +8,9 @@
 ## Skills
 
 ### Frontend
- <img src="PHP-logo.svg.png" alt="PHP" width="100"/>
-
+ 
 ### Backend
-<img src="python-icon.png" alt="Python" width="100"/> <img src="java.png" alt="Java" width="100"/>
+<img src="PHP-logo.svg.png" alt="PHP" width="100"/> <img src="python-icon.png" alt="Python" width="100"/> <img src="java.png" alt="Java" width="100"/>
 
 ### Other
 <img src="C_Programming_Language.svg.png" alt="C" width="100"/> <img src="489px-MySQL.svg.png" alt="MySQL" width="100"/> <img src="postgresql-logo-3-300x291.png" alt="Postgres" width="100"/> <img src="154px-Tux-simple.svg.png" alt="Linux" width="100"/>
