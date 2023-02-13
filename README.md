@@ -1,5 +1,5 @@
 ### Ilyn / Yassin
-### Student in computer science / France
+### French dev
 
 - 📍  [3WA](https://3wa.fr/)
 - 🌱 I am currently working on [this app](https://digipark.fr) 
