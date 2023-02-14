@@ -17,6 +17,6 @@
 <img src="C_Programming_Language.svg.png" alt="C" width="100"/> <img src="489px-MySQL.svg.png" alt="MySQL" width="100"/> <img src="postgresql-logo-3-300x291.png" alt="Postgres" width="100"/> <img src="154px-Tux-simple.svg.png" alt="Linux" width="100"/>
 
 ## Misc
-| | | |
+| Stats | Languages | Dev Card |
 |:---:|:---:|:---:|
 | <img src="https://github-readme-stats.vercel.app/api?username=IIyn&show_icons=true&theme=radical" alt="Stats" width="450"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IIyn&layout=compact" alt="Top Langs" width="470"/> | <a href="https://app.daily.dev/DailyDevTips"><img src="devcard.svg" width="400" alt="Yassin's Dev Card"/> |
