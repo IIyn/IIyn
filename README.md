@@ -19,4 +19,4 @@
 ## Misc
 | Stats | Languages | Dev Card |
 |:---:|:---:|:---:|
-| <img src="https://github-readme-stats.vercel.app/api?username=IIyn&show_icons=true&theme=radical" alt="Stats" width="450"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IIyn&layout=compact" alt="Top Langs" width="470"/> | <a href="https://app.daily.dev/DailyDevTips"><img src="devcard.svg" width="400" alt="Yassin's Dev Card"/> |
+| <img src="https://github-readme-stats.vercel.app/api?username=IIyn&show_icons=true&theme=radical" alt="Stats" width="450"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IIyn&layout=compact" alt="Top Langs" width="470"/> | <img src="devcard.svg" width="400" alt="Yassin's Dev Card"/> |
