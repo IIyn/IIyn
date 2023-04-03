@@ -2,7 +2,7 @@
 ### French dev
 
 - 📍  [3WA](https://3wa.fr/)
-- 🌱 I am currently working on [this app](https://digipark.fr) 
+- 🌱 I am currently working at [DiamPark](https://diampark.io/en)
 - 🎼 I also play piano and do music stuff
 
 ## Skills
