@@ -1,7 +1,7 @@
 ### Ilyn / Yassin
 ### French dev
 
-- 📍  [3WA](https://3wa.fr/)
+- 📍  Paris
 - 🌱 I am currently working at [DiamPark](https://diampark.io/en)
 - 🎼 I also play piano and do music stuff
 
