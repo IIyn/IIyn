@@ -1,5 +1,5 @@
 ### Ilyn / Yassin
-### French dev
+### French software developer
 
 - 📍  Paris
 - 🌱 I am currently working at [DiamPark](https://diampark.io/en)
