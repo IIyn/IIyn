@@ -4,7 +4,7 @@
 - 📍  Paris
 - 🌱 I am currently working at [DiamPark](https://diampark.io/en)
 - 📑 I am learning Rust and Python in my free time
-- 🎼 I also play piano and do music stuff
+- ✍️ I like to write stories
 
 ## Skills
 
