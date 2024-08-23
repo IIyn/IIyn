@@ -1,8 +1,7 @@
 ### Ilyn / Yassin
 ### French software developer
 
-- 📍  Paris
-- 🌱 I am currently working at [DiamPark](https://diampark.io/en)
+- 💗 Typescript enjoyer
 - 📑 I am learning Rust and Python in my free time
 - ✍️ I like to write stories
 
