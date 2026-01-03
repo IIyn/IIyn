@@ -1,9 +1,7 @@
 ### Ilyn / Yassin
 ### French software developer
 
-- 💗 Typescript enjoyer
-- 📑 I am learning Rust and Python in my free time
-- ✍️ I like to write stories
+Developing is fun
 
 ## Skills
 
