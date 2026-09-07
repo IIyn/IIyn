@@ -1,7 +1,7 @@
 ### Ilyn / Yassin
 ### French software engineer
 
-Developing is fun
+Having fun
 
 ## Skills
 
