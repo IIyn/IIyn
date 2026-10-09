@@ -1,8 +1,6 @@
 ### Ilyn / Yassin
 ### French software engineer
 
-Having fun
-
 ## Skills
 
 ### Frontend
