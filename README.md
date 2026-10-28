@@ -12,7 +12,6 @@
 ### Other
 <img src="C_Programming_Language.svg.png" alt="C" width="100"/> <img src="rust.png" alt="Rust" width="100"/>
 
-## Misc
-| Stats | Languages | Dev Card |
-|:---:|:---:|:---:|
-| <img src="https://github-stats-extended.vercel.app/api?username=IIyn&show_icons=true&theme=radical" alt="Stats" width="450"/> | <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=IIyn&layout=compact" alt="Top Langs" width="470"/> | <a href="https://app.daily.dev/ilyn" target="_blank"><img src="devcard.png" width="356" alt="Dev Card"/></a> |
+## Stats
+<img src="https://github-stats-extended.vercel.app/api?username=IIyn&rank_icon=github&show_icons=true&include_all_commits=true&theme=codeSTACKr" alt="Stats" width="450"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs?username=IIyn&layout=pie&langs_count=8&theme=codeSTACKr" alt="Top Langs" width="450"/>
